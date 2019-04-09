@@ -172,7 +172,8 @@ body {
 }
 .text--title span:first-child {
   font-size: 0.6em;
-  margin-bottom: 0.2em;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 .text--note {
   top: 87%;
